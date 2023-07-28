@@ -25,7 +25,7 @@ services:
         timeout: 60
         codeUri: ./
         diskSize: 10240
-        caPort: 9000
+        caPort: 7860
         customRuntimeConfig:
           command:
             - python
